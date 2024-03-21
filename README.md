@@ -1,6 +1,7 @@
 # Tugas2_ML
 Machine Learning 2nd Task
-
+Rendika Rahmaturrizki
+2108107010066
 
 ## Requirement
 - Python 3.10.12
